@@ -3,10 +3,13 @@
 ## Courses
 
 Complete
+- [X] [Create an Application with SAP Build Apps](https://developers.sap.com/mission.appgyver-low-code.html)
+- [X] [Build a Business Application Using CAP for Node.js](https://developers.sap.com/mission.cp-starter-extensions-cap.html)
+- [X] [Extend SAP SuccessFactors on SAP BTP with the SAP Cloud Application Programmign Model CAP](https://developers.sap.com/mission.btp-extend-sfsf-cap.html)
 
 In Progress
 
-- [ ] [Developing with SAP Integration Suite](https://github.com/chrisrobles/SAP-Notes/)
+- [ ] [Developing with SAP Integration Suite]([https://github.com/chrisrobles/SAP-Notes/](https://learning.sap.com/learning-journeys/developing-with-sap-integration-suite))
 
 ## Products
 

@@ -1,4 +1,4 @@
-# SAP_Notes
+# SAP Notes
 
 ## Courses
 

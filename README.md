@@ -13,6 +13,7 @@ In Progress
 
 - [ ] [Extend SAP SuccessFactors on SAP BTP with the SAP Cloud Application Programming Model CAP](https://developers.sap.com/mission.btp-extend-sfsf-cap.html)
 - [ ] [Developing with SAP Integration Suite](https://learning.sap.com/learning-journeys/developing-with-sap-integration-suite)
+- [ ] [Explore Integrated Business Processes in SAP S/4HANA](https://learning.sap.com/learning-journeys/explore-integrated-business-processes-in-sap-s-4hana-)
 
 ## Trial BTP Account
 

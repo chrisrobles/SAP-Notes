@@ -2,21 +2,30 @@
 
 ## Courses
 
+[See my badges!](https://community.sap.com/t5/badges/userbadgespage/user-id/2129623/page/1)
+
 Complete
+
 - [X] [Create an Application with SAP Build Apps](https://developers.sap.com/mission.appgyver-low-code.html)
 - [X] [Build a Business Application Using CAP for Node.js](https://developers.sap.com/mission.cp-starter-extensions-cap.html)
-- [X] [Extend SAP SuccessFactors on SAP BTP with the SAP Cloud Application Programmign Model CAP](https://developers.sap.com/mission.btp-extend-sfsf-cap.html)
 
 In Progress
 
+- [ ] [Extend SAP SuccessFactors on SAP BTP with the SAP Cloud Application Programming Model CAP](https://developers.sap.com/mission.btp-extend-sfsf-cap.html)
 - [ ] [Developing with SAP Integration Suite]([https://github.com/chrisrobles/SAP-Notes/](https://learning.sap.com/learning-journeys/developing-with-sap-integration-suite))
+
+## Trial BTP Account
+
+https://account.hanatrial.ondemand.com
+
+[Setup Tutorial](https://developers.sap.com/tutorials/hcp-create-trial-account.html)
 
 ## Products
 
 [Source](https://www.sap.com/products.html)
 
 - [SAP S/4HANA](https://www.sap.com/products/s4hana-erp.html): SAP's modern, ready-to-run cloud ERP system built on SAP HANA in-memory database, enabling real-time processing and analysis of business data.
-- [SAP Business Technology Platform (BTP)](https://www.sap.com/products/business-technology-platform.html): Accelerate application development and automation with the SAP Build suite of low-code, pro-code, and generative AI tools. Discover how to use these solutions to create apps, automate processes, and design digital workspaces with ease.
+- [SAP Business Technology Platform (BTP)](https://www.sap.com/products/business-technology-platform.html): Accelerate application development and automation with the SAP Build suite of low-code, pro-code, and generative AI tools.
 - [SAP Ariba](https://www.sap.com/products/procurement.html): Procurement and supply chain collaboration platform. Manage sourcing and suppliers across spend categories with a single closed-loop, source-to-contract suite of solutions that handles the advanced requirements of direct materials sourcing.
 - [SAP Commerce Cloud](https://www.sap.com/products/crm/commerce-cloud.html): Cloud-based e-commerce platform that enables businesses to create personalized and seamless shopping experiences for their customers.
 - [SAP Service Cloud](https://www.sap.com/products/crm/service-cloud.html): SAP Service Cloud is an AI-enhanced customer relationship management (CRM) solution that offers tools for omnichannel customer service, efficient case management, and advanced analytics.
